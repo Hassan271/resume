@@ -31,14 +31,14 @@ body{
 {
     position: relative;
     background-color: #003147;
-    padding: 40px;
+    padding: 20px;
 }
 .profileText{
     position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     border-bottom: 2px solid rgba(255, 255, 255, 0.2);
 }    
 .profileText .imgBx{
@@ -72,7 +72,7 @@ font-weight: 300;
 
 .contactInfo
 {
-    padding-top: 40px;
+    padding-top: 20px;
 }
 .title{
     color: #fff;
